@@ -1,4 +1,4 @@
 module.exports = {
-    baseUrl: "/vue-playground/",
+    baseUrl: "",
     publicPath: './'
   }
