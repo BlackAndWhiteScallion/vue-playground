@@ -1,4 +1,3 @@
 module.exports = {
-    baseUrl: "./",
-    publicPath: process.env.NODE_ENV === 'production' ? './vue-playground' : './'
+    baseUrl: "/vue-playground/",
   }
